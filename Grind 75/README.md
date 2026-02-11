@@ -1,5 +1,6 @@
 _link to the problems:_
 https://www.techinterviewhandbook.org/grind75/
 
-Hash table: Two Sum
-Stack: Valid Parentheses
+Hash table: 1.Two Sum
+Stack: 20.Valid Parentheses
+Linked List: 21.Merge Two Sorted Lists
