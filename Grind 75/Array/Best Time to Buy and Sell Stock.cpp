@@ -1,7 +1,6 @@
 #include <iostream>
 #include <vector>
 
-
 using namespace std;
 
 //[7,1,5,3,6,4]

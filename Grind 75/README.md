@@ -15,6 +15,7 @@ Linked List:
 
 ---
 Array: 
-- 121. Best Time to Buy and Sell Stock
+- 121. Best Time to Buy and Sell Stock: Two Pointers
+- 125. Valid Palindrome: Two Pointers
 
 
