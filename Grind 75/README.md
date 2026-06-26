@@ -16,9 +16,13 @@ Linked List:
 ---
 Array: 
 - 121. Best Time to Buy and Sell Stock: Two Pointers
-- 125. Valid Palindrome: Two Pointers
 
 ---
 Binary Tree:
 - 226. Invert Binary Tree: DFS
+
+---
+String:
+- 125. Valid Palindrome: Two Pointers
+- 242. Valid Anagram
 
