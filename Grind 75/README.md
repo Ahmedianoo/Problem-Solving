@@ -26,3 +26,6 @@ String:
 - 125. Valid Palindrome: Two Pointers
 - 242. Valid Anagram
 
+---
+Binary Search
+- 704. Binary Search
