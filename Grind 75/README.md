@@ -3,15 +3,15 @@ https://www.techinterviewhandbook.org/grind75/
 
 ---
 Hash table: 
-- 1.Two Sum
+- 1. Two Sum
 
 ---
 Stack: 
-- 20.Valid Parentheses
+- 20. Valid Parentheses
 
 ---
 Linked List: 
-- 21.Merge Two Sorted Lists
+- 21. Merge Two Sorted Lists
 
 ---
 Array: 
