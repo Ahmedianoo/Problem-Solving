@@ -22,6 +22,10 @@ https://www.techinterviewhandbook.org/grind75/
 226. Invert Binary Tree: DFS
 
 ---
+## Binary Search Tree:
+235. Lowest Common Ancestor of a Binary Search Tree
+
+---
 ## String:
 125. Valid Palindrome: Two Pointers
 242. Valid Anagram
