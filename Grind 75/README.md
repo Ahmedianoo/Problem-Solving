@@ -20,6 +20,7 @@ https://www.techinterviewhandbook.org/grind75/
 ---
 ## Binary Tree:
 226. Invert Binary Tree: DFS
+110. Balanced Binary Tree
 
 ---
 ## Binary Search Tree:
