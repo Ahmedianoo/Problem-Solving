@@ -32,6 +32,7 @@ https://www.techinterviewhandbook.org/grind75/
 ## String:
 125. Valid Palindrome: Two Pointers
 242. Valid Anagram
+383. Ransom Note
 
 ---
 ## Binary Search
