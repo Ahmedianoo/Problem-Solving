@@ -14,6 +14,7 @@ https://www.techinterviewhandbook.org/grind75/
 ## Linked List: 
 21. Merge Two Sorted Lists
 141. Linked List Cycle: Floyd's Tortoise and Hare
+206. Reverse Linked List
 
 ---
 ## Array: 
