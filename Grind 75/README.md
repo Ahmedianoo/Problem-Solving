@@ -36,6 +36,7 @@ https://www.techinterviewhandbook.org/grind75/
 242. Valid Anagram
 383. Ransom Note
 409. Longest Palindrome
+67. Add Binary
 
 ---
 ## Binary Search
