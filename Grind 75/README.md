@@ -22,6 +22,7 @@ https://www.techinterviewhandbook.org/grind75/
 121. Best Time to Buy and Sell Stock: Two Pointers
 169. Majority Element: Boyer-Moore
 217. Contains Duplicate
+53. Maximum Subarray
 
 ---
 ## Binary Tree:
