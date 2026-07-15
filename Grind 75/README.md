@@ -23,6 +23,7 @@ https://www.techinterviewhandbook.org/grind75/
 169. Majority Element: Boyer-Moore
 217. Contains Duplicate
 53. Maximum Subarray
+57. Insert Interval
 
 ---
 ## Binary Tree:
