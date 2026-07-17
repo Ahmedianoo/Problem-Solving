@@ -59,4 +59,8 @@ https://www.techinterviewhandbook.org/grind75/
 
 ---
 ## Matrix
-542. 01 Matrix
+542. 01 Matrix: BFS
+
+---
+## Heap
+973. K Closest Points to Origin
