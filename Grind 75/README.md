@@ -9,6 +9,7 @@ https://www.techinterviewhandbook.org/grind75/
 ## Stack: 
 20. Valid Parentheses
 232. Implement Queue using Stacks
+150. Evaluate Reverse Polish Notation
 
 ---
 ## Linked List: 
