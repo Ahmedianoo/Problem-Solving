@@ -57,7 +57,7 @@ https://www.techinterviewhandbook.org/grind75/
 ## Graph
 733. Flood Fill: DFS
 133. Clone Graph: DFS or BFS
-207. Course Schedule
+207. Course Schedule: DFS (Cycle Detection) or BFS (Kahn's Topological Sort)
 
 ---
 ## Dynamic Programming
@@ -70,3 +70,7 @@ https://www.techinterviewhandbook.org/grind75/
 ---
 ## Heap
 973. K Closest Points to Origin
+
+---
+## Trie
+208. Implement Trie (Prefix Tree)
