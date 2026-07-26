@@ -8,32 +8,47 @@ https://www.techinterviewhandbook.org/grind75/
 ---
 ## Stack: 
 `20.` Valid Parentheses
+
 `232.` Implement Queue using Stacks
+
 `150.` Evaluate Reverse Polish Notation
 
 ---
 ## Linked List: 
 `21.` Merge Two Sorted Lists    
+
 `141.` Linked List Cycle: Floyd's Tortoise and Hare
+
 `206.` Reverse Linked List
+
 `876.` Middle of the Linked List
 
 ---
 ## Array: 
 `121.` Best Time to Buy and Sell Stock: Two Pointers
+
 `169.` Majority Element: Boyer-Moore
+
 `217.` Contains Duplicate
+
 `53.` Maximum Subarray
+
 `57.` Insert Interval
+
 `15.` 3Sum
+
 `238.` Product of Array Except Self
 
 ---
 ## Binary Tree:
 `226.` Invert Binary Tree: DFS
+
 `110.` Balanced Binary Tree
+
 `543.` Diameter of Binary Tree
+
 `104.` Maximum Depth of Binary Tree
+
 `102.` Binary Tree Level Order Traversal
 
 ---
@@ -43,26 +58,35 @@ https://www.techinterviewhandbook.org/grind75/
 ---
 ## String:
 `125.` Valid Palindrome: Two Pointers
+
 `242.` Valid Anagram
+
 `383.` Ransom Note
+
 `409.` Longest Palindrome
+
 `67.` Add Binary
+
 `3.` Longest Substring Without Repeating Characters: hashset and two pointers
 
 ---
 ## Binary Search
 `704.` Binary Search
+
 `278.` First Bad Version
 
 ---
 ## Graph
 `733.` Flood Fill: DFS
+
 `133.` Clone Graph: DFS or BFS
+
 `207.` Course Schedule: DFS (Cycle Detection) or BFS (Kahn's Topological Sort)
 
 ---
 ## Dynamic Programming
 `70.` Climbing Stairs
+
 `322.` Coin Change
 
 ---
