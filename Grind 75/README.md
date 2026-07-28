@@ -57,6 +57,8 @@ https://www.techinterviewhandbook.org/grind75/
 ## Binary Search Tree:
 `235.` Lowest Common Ancestor of a Binary Search Tree
 
+`98.` Validate Binary Search Tree
+
 ---
 ## String:
 `125.` Valid Palindrome: Two Pointers
