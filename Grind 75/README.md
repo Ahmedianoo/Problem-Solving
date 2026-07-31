@@ -79,6 +79,8 @@ https://www.techinterviewhandbook.org/grind75/
 
 `278.` First Bad Version
 
+`33.` Search in Rotated Sorted Array
+
 ---
 ## Graph
 `733.` Flood Fill: DFS
@@ -87,9 +89,9 @@ https://www.techinterviewhandbook.org/grind75/
 
 `207.` Course Schedule: DFS (Cycle Detection) or BFS (Kahn's Topological Sort)
 
-`200.` Number of Islands
+`200.` Number of Islands: DFS or BFS
 
-`994.` Rotting Oranges
+`994.` Rotting Oranges: multisource BFS
 
 ---
 ## Dynamic Programming
