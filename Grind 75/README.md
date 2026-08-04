@@ -41,6 +41,8 @@ https://www.techinterviewhandbook.org/grind75/
 
 `238.` Product of Array Except Self
 
+`56.` Merge Intervals
+
 ---
 ## Binary Tree:
 `226.` Invert Binary Tree: DFS
