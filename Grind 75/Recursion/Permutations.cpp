@@ -3,7 +3,7 @@
 
 using namespace std;
 
-// time: O(n * n!), space: O(n)
+// time: O(n * n!), space: O(n * n!)
 vector<vector<int>> permutations;
 
 vector<vector<int>> permute(vector<int>& nums) {
@@ -33,7 +33,7 @@ void solve(vector<int>& nums, vector<bool>& isVisited, vector<int>& currPath){
 }
 
 // swapping solution
-// time: O(n * n!), space: O(n)
+// time: O(n * n!), space: O(n * n!)
 vector<vector<int>> permute(vector<int>& nums) {
     solve(nums, 0);
     return permutations;
@@ -53,7 +53,7 @@ void solve(vector<int>& nums, int first){
 }
 
 // remove and recurse
-// time: O(n * n!), space: O(n)
+// time: O(n * n!), space: O(n * n!)
 vector<vector<int>> permute(vector<int>& nums) {
     if(nums.size() == 1) {
         return {nums};

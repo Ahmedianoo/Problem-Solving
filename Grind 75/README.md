@@ -55,6 +55,8 @@ https://www.techinterviewhandbook.org/grind75/
 
 `102.` Binary Tree Level Order Traversal
 
+`236.` Lowest Common Ancestor of a Binary Tree
+
 ---
 ## Binary Search Tree:
 `235.` Lowest Common Ancestor of a Binary Search Tree
