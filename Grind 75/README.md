@@ -99,6 +99,8 @@ https://www.techinterviewhandbook.org/grind75/
 
 `994.` Rotting Oranges: multisource BFS
 
+`721.` Accounts Merge
+
 ---
 ## Dynamic Programming
 `70.` Climbing Stairs
