@@ -79,6 +79,8 @@ https://www.techinterviewhandbook.org/grind75/
 
 `3.` Longest Substring Without Repeating Characters: hashset and two pointers
 
+`8.` String to Integer (atoi)
+
 ---
 ## Binary Search
 `704.` Binary Search
