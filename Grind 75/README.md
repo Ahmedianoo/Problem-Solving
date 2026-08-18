@@ -101,6 +101,8 @@ https://www.techinterviewhandbook.org/grind75/
 
 `200.` Number of Islands: DFS or BFS
 
+`542.` 01 Matrix: BFS
+
 `994.` Rotting Oranges: multisource BFS
 
 `721.` Accounts Merge
@@ -117,7 +119,7 @@ https://www.techinterviewhandbook.org/grind75/
 
 ---
 ## Matrix
-`542.` 01 Matrix: BFS
+`54.` Spiral Matrix
 
 ---
 ## Heap
