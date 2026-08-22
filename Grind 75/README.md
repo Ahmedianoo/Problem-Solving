@@ -83,6 +83,8 @@ https://www.techinterviewhandbook.org/grind75/
 
 `8.` String to Integer (atoi)
 
+`5.` Longest Palindromic Substring
+
 ---
 ## Binary Search
 `704.` Binary Search
