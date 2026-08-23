@@ -121,6 +121,8 @@ https://www.techinterviewhandbook.org/grind75/
 
 `416.` Partition Equal Subset Sum
 
+`62.` Unique Paths
+
 ---
 ## Matrix
 `54.` Spiral Matrix
