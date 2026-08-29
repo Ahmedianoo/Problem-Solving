@@ -116,6 +116,8 @@ https://www.techinterviewhandbook.org/grind75/
 
 `721.` Accounts Merge
 
+`79.` Word Search
+
 ---
 ## Dynamic Programming
 `70.` Climbing Stairs
