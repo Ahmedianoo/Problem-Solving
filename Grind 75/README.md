@@ -90,6 +90,10 @@ https://www.techinterviewhandbook.org/grind75/
 
 `5.` Longest Palindromic Substring
 
+`17.` Letter Combinations of a Phone Number
+
+`438.` Find All Anagrams in a String
+
 ---
 ## Binary Search
 `704.` Binary Search
@@ -149,5 +153,3 @@ https://www.techinterviewhandbook.org/grind75/
 `46.` Permutations
 
 `78.` Subsets
-
-`17.` Letter Combinations of a Phone Number
