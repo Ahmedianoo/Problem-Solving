@@ -144,6 +144,8 @@ https://www.techinterviewhandbook.org/grind75/
 ## Heap
 `973.` K Closest Points to Origin
 
+`621.` Task Scheduler
+
 ---
 ## Trie
 `208.` Implement Trie (Prefix Tree)
