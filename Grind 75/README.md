@@ -25,6 +25,8 @@ https://www.techinterviewhandbook.org/grind75/
 
 `876.` Middle of the Linked List
 
+`146.` LRU Cache
+
 ---
 ## Array: 
 `121.` Best Time to Buy and Sell Stock: Two Pointers
