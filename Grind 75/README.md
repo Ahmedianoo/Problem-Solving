@@ -74,6 +74,8 @@ https://www.techinterviewhandbook.org/grind75/
 
 `98.` Validate Binary Search Tree
 
+`230.` Kth Smallest Element in a BST
+
 ---
 ## String:
 `125.` Valid Palindrome: Two Pointers

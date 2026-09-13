@@ -1,5 +1,5 @@
 #include <iostream>
-#include <unordered_map>
+#include <stack>
 
 using namespace std;
 
@@ -16,7 +16,24 @@ struct TreeNode {
 // iterative
 // time: O(H + K), space: O(H)
 int kthSmallest(TreeNode* root, int k) {
-    
+    int n = 0;
+    TreeNode *curr = root;
+    stack<TreeNode*> st;
+
+    while(curr || !st.empty()){
+        while(curr){
+            st.push(curr);
+            curr = curr->left;
+        }
+        curr = st.top();
+        st.pop();
+        n++;
+        if(n == k) return curr->val;
+
+        curr = curr->right;
+    }
+
+    return -1;
 }
 
 // recursive
@@ -63,18 +80,3 @@ void inorder(TreeNode* node, int &count, int &answer, int k){
 
     inorder(node->right, count, answer, k);
 }
-
-/*
-here is what i am thinking of 
-
-keep a hash map: key: rank, value: node value
-at the end of the problem get the corresponding value for the required rank
-an optimization, you are only interested in one rank only you do not need to save all those ranks
-
-
-how would you do this
-how to calculate the rank
-the rank of this node (current node) is the count of nodes (above me + on my left + 1)
-
-
-*/
