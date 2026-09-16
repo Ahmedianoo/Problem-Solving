@@ -68,6 +68,8 @@ https://www.techinterviewhandbook.org/grind75/
 
 `105.` Construct Binary Tree from Preorder and Inorder Traversal
 
+`297.` Serialize and Deserialize Binary Tree
+
 ---
 ## Binary Search Tree:
 `235.` Lowest Common Ancestor of a Binary Search Tree
