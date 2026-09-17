@@ -49,6 +49,8 @@ https://www.techinterviewhandbook.org/grind75/
 
 `11.` Container With Most Water
 
+`42.` Trapping Rain Water
+
 
 ---
 ## Binary Tree:
