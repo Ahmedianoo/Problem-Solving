@@ -51,7 +51,6 @@ https://www.techinterviewhandbook.org/grind75/
 
 `42.` Trapping Rain Water
 
-
 ---
 ## Binary Tree:
 `226.` Invert Binary Tree: DFS
@@ -155,6 +154,8 @@ https://www.techinterviewhandbook.org/grind75/
 `973.` K Closest Points to Origin
 
 `621.` Task Scheduler
+
+`295.` Find Median from Data Stream
 
 ---
 ## Trie
