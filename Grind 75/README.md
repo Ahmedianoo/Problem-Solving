@@ -149,6 +149,8 @@ https://www.techinterviewhandbook.org/grind75/
 
 `62.` Unique Paths
 
+`1235.` Maximum Profit in Job Scheduling
+
 ---
 ## Matrix
 `54.` Spiral Matrix
