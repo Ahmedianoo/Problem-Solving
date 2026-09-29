@@ -17,6 +17,8 @@ https://www.techinterviewhandbook.org/grind75/
 
 `224.` Basic Calculator
 
+`84.` Largest Rectangle in Histogram
+
 ---
 ## Linked List: 
 `21.` Merge Two Sorted Lists    
